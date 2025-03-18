@@ -1,7 +1,7 @@
 # Shopping App 🛒
 
 This is a simple shopping application built with React, Tailwind CSS, ShadCN components, and TypeScript. The app fetches product data from the [Fake Store API](https://fakestoreapi.com/) and provides product listing and cart functionality.
-
+[live Link](https://rohit-shooping-app.netlify.app/)
 ## 📸 Screenshots 
 
 ### Product Listing Page
